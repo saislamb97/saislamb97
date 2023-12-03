@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saislamb97&label=Profile%20views&color=0e75b6&style=flat" alt="saislamb97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saislamb97" alt="saislamb97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saislamb97&theme=onedark" alt="saislamb97" /></a> </p>
 
 - 🔭 I’m currently working as a senior software developer at [Visual Indie Media](https://visualindie.com/)
 
