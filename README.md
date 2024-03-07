@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saislamb97&theme=onedark" alt="saislamb97" /></a> </p>
 
-- 🔭 I’m currently working as a senior software developer at [Visual Indie Media](https://visualindie.com/) on [tm8.ai](https://tm8.ai/)
+- 🔭 I’m currently working as a full-stack developer and building web applications with python and java
 
-- 🌱 I have excellent experience with **Python, Django, OpenAI, LLM, TTS, NLP, AWS, Nginx, GitHub, Docker and CI/CD**
+- 🌱 I have excellent experience with **Python, Django, Java, Spring Boot, OpenAI, LLM, TTS, NLP, AWS, Nginx, GitHub, Docker and CI/CD**
 
 - 👯 I love to collaborate on **AI and Cloud technologies related projects**
 
