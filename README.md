@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saislamb97&theme=onedark" alt="saislamb97" /></a> </p>
 
-- 🔭 I’m currently working as a full-stack developer and building web applications with python and java
+- 🔭 I’m a full-stack developer and building web applications with python and java
 
 - 🌱 I have excellent experience with **Python, Django, Java, Spring Boot, OpenAI, LLM, TTS, NLP, AWS, Nginx, GitHub, Docker and CI/CD**
 
-- 👯 I love to collaborate on **AI and Cloud technologies related projects**
+- 👯 I love collaborating with **AI and Cloud technologies related projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
