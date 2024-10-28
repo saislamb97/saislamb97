@@ -32,54 +32,69 @@
 </p>
 
 <h3 style="text-align: center; margin-top: 2rem;">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 3rem; border-radius: 12px; background-color: #f0f4f8; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 3rem;">
   <!-- Loop for all icons -->
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" aria-label="AWS Amplify" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" aria-label="AWS Amplify">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" aria-label="AWS" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" aria-label="AWS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" aria-label="Bootstrap" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" aria-label="Bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" aria-label="C++" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" aria-label="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" aria-label="Django" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" aria-label="Django">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" aria-label="Flask" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" aria-label="Flask">
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="Flask" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" aria-label="Docker" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" aria-label="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://figma.com" target="_blank" rel="noreferrer" aria-label="Figma" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://figma.com" target="_blank" rel="noreferrer" aria-label="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer" aria-label="Git" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer" aria-label="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" aria-label="MongoDB" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" aria-label="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" loading="lazy" />
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer" aria-label="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" loading="lazy" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" aria-label="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" aria-label="Node.js" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" aria-label="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" aria-label="Pandas" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://oracle.com/" target="_blank" rel="noreferrer" aria-label="Oracle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" loading="lazy" />
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" aria-label="Pandas">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer" aria-label="Redis" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://postman.com" target="_blank" rel="noreferrer" aria-label="Postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" loading="lazy" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer" aria-label="Redis">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" aria-label="Vue.js" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" aria-label="SQLite">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" loading="lazy" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" aria-label="Vue.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" aria-label="JavaScript" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" aria-label="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" loading="lazy" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" aria-label="Python" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" aria-label="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" loading="lazy" />
   </a>
 </div>
