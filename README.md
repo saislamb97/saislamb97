@@ -32,7 +32,7 @@
 </p>
 
 <h3 style="text-align: center; margin-top: 2rem;">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 3rem; border-radius: 15px; background: linear-gradient(135deg, #1e1e1e, #4a4a4a); box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 3rem; border-radius: 12px; background-color: #f0f4f8; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <!-- Loop for all icons -->
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" aria-label="AWS Amplify">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40" loading="lazy" />
