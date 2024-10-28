@@ -6,8 +6,8 @@
 <p style="text-align: left;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saislamb97&theme=onedark" alt="saislamb97" /></a> </p>
 
 <ul>
-  <li>🔭 I specialize in full-stack development, crafting dynamic web applications using Python, NodeJS, and Java.</li>
-  <li>🌱 My expertise encompasses a broad spectrum of technologies, including Python (Django, Flask, FastAPI), NodeJS (ExpressJS, EggJS), ReactJS, Java (Spring Boot), OpenAI, OpenAPI, AWS, Nginx, GitHub, Docker and CI/CD.</li>
+  <li>🔭 I specialize in full-stack development, design and system architecture, crafting dynamic web applications using Python, NodeJS, Java and PHP.</li>
+  <li>🌱 My expertise encompasses a broad spectrum of technologies, including Python (Django, Flask, FastAPI), NodeJS (ExpressJS, EggJS), ReactJS, VueJS, Java (Maven, Spring Boot), PHP (Laravel), OpenAI, OpenAPI, MetaAi, AWS, Digital Ocean, Nginx, Apache, GitHub, Docker, CI/CD, Stripe and RM.</li>
   <li>👯 I am passionate about collaborating on innovative projects that involve AI, payment systems, and cloud technologies.</li>
 </ul>
 
