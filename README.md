@@ -42,6 +42,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saislamb97&show_icons=true&theme=dark" alt="GitHub Stats" loading="lazy" />
   </p>
   <p>
-    <img align="center" src="https://streak-stats.demolab.com?user=saislamb97&theme=dark" alt="GitHub Streak Stats" loading="lazy" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=saislamb97&theme=dark" alt="GitHub Streak" />
   </p>
 </section>
