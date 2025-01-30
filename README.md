@@ -15,8 +15,8 @@
 
 <section style="max-width: 800px; margin: 0 auto; padding: 1rem; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <ul style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 1rem;">🔭 <strong>Over 8 years of experience, including 5 years in programming:</strong> I specialize in full-stack development, system architecture, and application design, building robust, scalable solutions.</li>
-    <li style="margin-bottom: 1rem;">🌱 <strong>Proficient in technologies:</strong> Python (Django, Flask, FastAPI), Node.js (Express.js, Egg.js), React.js, Vue.js, Java (Spring Boot, Maven), PHP (Laravel). Expertise in AI, cloud platforms (AWS, DigitalOcean), Docker, CI/CD, and payment gateways like Stripe.</li>
+    <li style="margin-bottom: 1rem;">🔭 <strong>Over 9 years of professional experience in programming and teaching:</strong> I specialize in full-stack development, system architecture, and application design, building robust, scalable solutions.</li>
+    <li style="margin-bottom: 1rem;">🌱 <strong>Proficient in technologies:</strong> Python (Django, Flask, FastAPI), Node.js (Express.js, Egg.js), React.js, Vue.js, Java (Spring Boot, Maven), PHP (Laravel). Expertise in AI, cloud platforms (AWS, DigitalOcean), Docker, CI/CD, and integrating payment gateways.</li>
     <li style="margin-bottom: 1rem;">👯 <strong>Passionate about collaboration:</strong> I enjoy contributing to innovative projects in AI, cloud computing, and payment systems.</li>
   </ul>
 </section>
