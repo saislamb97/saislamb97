@@ -23,7 +23,11 @@
   <a href="mailto:sa.islamb97@gmail.com">Email</a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saislamb97)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=saislamb97&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
