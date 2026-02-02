@@ -63,9 +63,29 @@ I build and lead **AI + computer vision products**, and I deliver the **full-sta
 
 ## GitHub Activity
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saislamb97&theme=dark" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=saislamb97&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10"
+      alt="trophy"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=saislamb97&show_icons=true&rank_icon=github&theme=dark&hide_border=true&cache_seconds=21600"
+    alt="GitHub stats" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saislamb97&layout=compact&theme=dark&hide_border=true&cache_seconds=21600"
+    alt="Top languages" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=saislamb97&theme=dark&hide_border=true"
+    alt="GitHub streak" />
+</p>
 
 ---
 
