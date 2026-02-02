@@ -23,6 +23,8 @@
   <a href="mailto:sa.islamb97@gmail.com">Email</a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saislamb97)](https://git.io/streak-stats)
+
 ---
 
 ## About
@@ -58,12 +60,6 @@ I build and lead **AI + computer vision products**, and I deliver the **full-sta
   <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
-
----
-
-## GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saislamb97&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
