@@ -1,4 +1,3 @@
-<!-- ===== HERO ===== -->
 <h1 align="center">Saiful Islam</h1>
 <p align="center">
   AI & Computer Vision Product Leader • Full-Stack Engineering • Cloud & DevOps
@@ -30,22 +29,22 @@
 
 I build and lead **AI + computer vision products**, and I deliver the **full-stack + cloud infrastructure** to run them reliably at scale.
 
-- **Experience:** 10+ years across AI/CV, full-stack engineering, and cloud architecture
-- **Product delivery:** discovery → prototyping → production rollout
-- **Engineering:** APIs, web apps, data pipelines, scalable backend systems
-- **Cloud & DevOps:** AWS, Docker, CI/CD, production operations
+- **Experience:** 10+ years across AI/CV, full-stack engineering, and cloud architecture  
+- **Delivery:** discovery → prototyping → production rollout  
+- **Engineering:** APIs, web apps, data pipelines, scalable backend systems  
+- **Operations:** AWS, Docker, CI/CD, production reliability  
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### NudgytAI — Agent-Scoped Conversational AI Backend
 Agent-scoped backend with streaming, RAG, and tool routing.  
 **Demo:** https://coach.nudgyt.com/
 
-**Features**
-- Multi-agent support (agent-specific behavior, tools, voice, model config)
-- Streaming WebSocket chat (text + optional TTS audio + emotion + slide-deck events)
+**What it includes**
+- Multi-agent support (agent-specific behavior, tools, voice, optional model config)
+- Streaming WebSocket chat (text + optional TTS + emotion + slide-deck events)
 - RAG / embeddings (pgvector + chunking + retrieval)
 - Tool-routing (router model decides when to call tools like slides/doc analysis)
 - Production ops (Redis cache, Celery, structured logging, origin allowlists)
@@ -102,11 +101,11 @@ Supervised ML models (Random Forest, SVM) + Harmony Search optimisation for turb
 
 ## Tech Stack
 
-**Backend:** Python (Django, FastAPI), Node.js (Express, Egg.js), Java (Spring Boot), PHP (Laravel)  
-**Web:** React, Vue, SSR, CSR  
-**Infra/DevOps:** AWS, Docker, Kubernetes, Nginx, CI/CD, DigitalOcean
-**Data & Streaming:** Elasticsearch, Apache Kafka, Firebase, Vector DBs, Embeddings
-**AI/CV:** OpenCV, PyTorch, TensorFlow, GraphRAG
+**Backend:** Python (Django, FastAPI) • Node.js (Express, Egg.js) • Java (Spring Boot) • PHP (Laravel)  
+**Web:** React • Vue (SSR/CSR)  
+**Infra/DevOps:** AWS • Docker • Kubernetes • Nginx • CI/CD • DigitalOcean  
+**Data & Streaming:** Elasticsearch • Apache Kafka • Firebase • Vector DBs • Embeddings  
+**AI/CV:** OpenCV • PyTorch • TensorFlow • GraphRAG  
 
 <details>
   <summary><b>Icons</b></summary>
@@ -129,34 +128,17 @@ Supervised ML models (Random Forest, SVM) + Harmony Search optimisation for turb
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/saislamb97" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/6895" target="_blank" rel="noopener noreferrer" aria-label="Discord">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="34" />
-  </a>
-</p>
-
----
-
 ## GitHub Activity
 
 <details>
   <summary><b>Stats</b></summary>
   <br />
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=saislamb97&show_icons=true&theme=dark" alt="GitHub stats" />
   </p>
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saislamb97&show_icons=true&layout=compact&theme=dark" alt="Top languages" />
   </p>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saislamb97&theme=dark" alt="GitHub streak" />
   </p>
