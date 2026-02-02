@@ -36,13 +36,67 @@ I build and lead **AI + computer vision products**, and I deliver the **full-sta
 
 ---
 
+## Tech Stack
+
+**Backend:** Python (Django, FastAPI) • Node.js (Express, Egg.js) • Java (Spring Boot) • PHP (Laravel)  
+**Web:** React • Vue (SSR/CSR)  
+**Infra/DevOps:** AWS • Docker • Kubernetes • Nginx • CI/CD • DigitalOcean  
+**Data & Streaming:** Elasticsearch • Apache Kafka • Firebase • Vector DBs • Embeddings  
+**AI/CV:** OpenCV • PyTorch • TensorFlow • GraphRAG  
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tiangolo/tiangolo-icon.svg" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=saislamb97&show_icons=true&rank_icon=github&theme=dark&hide_border=true&cache_seconds=21600"
+    alt="GitHub stats" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saislamb97&layout=compact&theme=dark&hide_border=true&cache_seconds=21600"
+    alt="Top languages" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=saislamb97&theme=dark&hide_border=true"
+    alt="GitHub streak" />
+</p>
+
+---
+
+## Research & Publications
+
+- **XRIS: Real-Time Web Platform for Radar Data Management** (IOS Press, FAIA, 2025)  
+  DOI: https://doi.org/10.3233/FAIA250562
+
+- **AI-Driven Turbidity Prediction & Optimisation for Wastewater Treatment**  
+  Supervised ML (Random Forest, SVM) + Harmony Search optimisation for turbidity/energy trade-offs.  
+  Repo: https://github.com/saislamb97/turbidity-prediction
+
+---
+
 ## Selected Work
 
 ### NudgytAI — Agent-Scoped Conversational AI Backend
 Agent-scoped backend with streaming, RAG, and tool routing.  
 **Demo:** https://coach.nudgyt.com/
 
-**What it includes**
 - Multi-agent support (agent-specific behavior, tools, voice, optional model config)
 - Streaming WebSocket chat (text + optional TTS + emotion + slide-deck events)
 - RAG / embeddings (pgvector + chunking + retrieval)
@@ -56,7 +110,6 @@ Real-time ingestion, processing, and visualization for X-band radar data.
 **Demo:** https://xris-malaysia.com  
 **Publication (DOI):** https://doi.org/10.3233/FAIA250562
 
-**Highlights**
 - End-to-end platform: ingestion → processing → visualization
 - Built for real-time operational monitoring and exploration
 
@@ -66,7 +119,6 @@ Real-time ingestion, processing, and visualization for X-band radar data.
 Prototype combining an embodied avatar + LLM dialogue + RAG for domain-specific assistance.  
 **Demo:** https://kiosk.holome.ai
 
-**Highlights**
 - Avatar-driven conversational interface backed by an LLM
 - RAG workflow for domain-grounded responses
 
@@ -76,70 +128,5 @@ Prototype combining an embodied avatar + LLM dialogue + RAG for domain-specific 
 Real-time voice/chat assistant integrating telephony & messaging APIs + subscription billing.  
 **Demo:** https://voicecenta.ai
 
-**Highlights**
 - Real-time voice + chat flows across channels
 - Subscription billing + payments and event-driven processing
-
----
-
-### AI-Driven Turbidity Prediction & Optimisation for Wastewater Treatment
-Supervised ML models (Random Forest, SVM) + Harmony Search optimisation for turbidity/energy trade-offs.  
-**Repo:** https://github.com/saislamb97/turbidity-prediction
-
-**Highlights**
-- Built supervised ML baselines for turbidity prediction
-- Applied Harmony Search for multi-objective optimisation
-
----
-
-## Research & Publication
-
-- **XRIS: Real-Time Web Platform for Radar Data Management** (IOS Press, FAIA, 2025)  
-  DOI: https://doi.org/10.3233/FAIA250562
-
----
-
-## Tech Stack
-
-**Backend:** Python (Django, FastAPI) • Node.js (Express, Egg.js) • Java (Spring Boot) • PHP (Laravel)  
-**Web:** React • Vue (SSR/CSR)  
-**Infra/DevOps:** AWS • Docker • Kubernetes • Nginx • CI/CD • DigitalOcean  
-**Data & Streaming:** Elasticsearch • Apache Kafka • Firebase • Vector DBs • Embeddings  
-**AI/CV:** OpenCV • PyTorch • TensorFlow • GraphRAG  
-
-<details>
-  <summary><b>Icons</b></summary>
-
-  <p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tiangolo/tiangolo-icon.svg" alt="FastAPI" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/></a>
-    <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  </p>
-</details>
-
----
-
-## GitHub Activity
-
-<details>
-  <summary><b>Stats</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saislamb97&show_icons=true&theme=dark" alt="GitHub stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saislamb97&show_icons=true&layout=compact&theme=dark" alt="Top languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saislamb97&theme=dark" alt="GitHub streak" />
-  </p>
-</details>
